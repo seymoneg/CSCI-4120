@@ -15,4 +15,4 @@
 # The best K accuracy for our model is **0.25**
 
 # Insert a confusion matrix for the best K
-# ![Confusion Matrix](/images/2021/09/Screen Shot 2021-09-27 at 12.15.15 PM.png)
+# ![Confusion Matrix](confusionMatrix.png)
