@@ -1,8 +1,10 @@
-# Team member names and emails
-- Seymone Gugneja, gugnejas19@students.ecu.edu
+# CSCI-4120
+
+# Team members:
+# Seymone Gugneja : gugnejas19@students.ecu.edu
 
 # Result graph from excercise 1
-![excercise 1](excercise1.png)
+# ![excercise 1](excercise1.png)
 
 #Result graph from excercise 2
-![excercise 2](excercise2.png)
+# ![excercise 2](excercise2.png)
