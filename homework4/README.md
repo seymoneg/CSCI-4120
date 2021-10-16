@@ -6,7 +6,7 @@
 # 3 models cross validation scores
 
 # lasso
-![lasso](/images/2021/10/lasso.png)
+![lasso](lasso.png)
 
 # ridge
 ![ridge](/images/2021/10/ridge.png)
